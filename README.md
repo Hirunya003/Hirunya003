@@ -43,13 +43,7 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
-<h3>📊 My GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirunya003&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hirunya003&show_icons=true&locale=en&theme=rose_pine" alt="GitHub Stats" />
-</p>
+
 
 ---
 

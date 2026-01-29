@@ -21,14 +21,6 @@
 - Business analysis techniques (requirements, personas, workflows)  
 - Translating business needs into intuitive digital solutions
 
-- ## 🧠**Areas Of Interest**
-
-- UI/UX Design & Interaction Design  
-- User Research & Usability Testing  
-- Business Analysis & Requirement Documentation  
-- Mobile & Web Application Design  
-- Design Thinking & Problem Solving  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
